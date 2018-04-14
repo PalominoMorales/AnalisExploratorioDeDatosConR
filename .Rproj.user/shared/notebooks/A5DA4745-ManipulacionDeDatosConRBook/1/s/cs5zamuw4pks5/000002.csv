@@ -1,0 +1,2 @@
+"0","#head para mostrar las 6 primeras filas de la selección de variables"
+"0","head(select(chicago, -(city:dptp)))"

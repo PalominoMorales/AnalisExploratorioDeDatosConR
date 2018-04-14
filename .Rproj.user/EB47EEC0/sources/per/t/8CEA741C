@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520089678253.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2011838988",
+    "id" : "8CEA741C",
+    "lastKnownWriteTime" : 1519751017,
+    "last_content_update" : 1520221374562,
+    "path" : "D:/AnalisExploratorioDeDatosConR/ManipulacionDeDatosConRBook.Rmd",
+    "project_path" : "ManipulacionDeDatosConRBook.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,38",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
